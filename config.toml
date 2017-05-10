@@ -1,16 +1,16 @@
-baseURL = "https://SOMETHING.gamedev.fyi/"
+baseURL = "https://netherlands.gamedev.fyi/"
 languageCode = "en-us"
-title = "SOMETHING GameDev FYI"
+title = "Netherlands GameDev FYI"
 theme = "gamedev-fyi-theme"
 googleAnalytics = "UA-60001962-9"
 
 
 [Params]
-  description = "A resource for all game development related things in SOMETHING."
+  description = "A resource for all game development related things in the Netherlands."
   twitter = "https://twitter.com/GameDevFYI"
   reddit = "https://www.reddit.com/r/GameDevFYI/"
   email = "admin@gamedev.fyi"
-  source_code = "https://gitlab.com/gamedev-fyi/gamedev-fyi-base"
-  keywords = "Game, GameDev, SOMETHING"
+  source_code = "https://gitlab.com/gamedev-fyi/netherlands-gamedev-fyi"
+  keywords = "Game, GameDev, Netherlands"
   dateFormat = "January 2, 2006"
   author = "Goose Ninja"
