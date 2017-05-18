@@ -1,5 +1,5 @@
 ---
-title: "tiger squid"
+title: "tiger & squid"
 site_link: "http://www.tiger-squid.com/"
 description: "Independent game studio based in Netherlands."
 location: "Haarlem"
