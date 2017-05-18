@@ -1,5 +1,5 @@
 ---
-title: "ranj"
+title: "&ranj"
 site_link: "http://www.ranj.nl/"
 description: "Achieve positive behavioural change through play."
 location: "Rotterdam"
